@@ -5,6 +5,7 @@
   部分配置采用寄存器,已经把正常配置的注释了
 
 ENGLISH:
+
  I wrote the driver for LCD1602A, but I don't know why it can't display normally. There are garbled characters. (I used the standard library.) I'm asking the experts for guidance.
    (The code is in the master branch.) (The wiring diagram, phenomenon, and manual are all in the master.)
 
